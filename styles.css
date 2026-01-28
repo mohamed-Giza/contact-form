@@ -16,16 +16,17 @@ p {
 .contact input {
     width: 90%;
     padding: 20px;
-    margin-top: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .contact textarea {
     height: 90px;
     width: 90%;
     padding: 20px;
-    margin-top: 12px;
+    margin-top: 10px;
 }
 .contact button {
-    margin-top: 12px;
+    margin-top: 10px;
     width: 90%;
     padding: 20px;
     margin-left: 20px;
