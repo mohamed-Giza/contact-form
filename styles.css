@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 380px;
+    padding: 20px;
+    background-color: grey;
+}
+.contact h2 {
+    text-align: center;
+    text-decoration: double;
+    font-size: xx-large;
+}
+p {
+    text-align: center;
+    text-decoration: dashed;
+}
+.contact input {
+    width: 90%;
+    padding: 20px;
+    margin-top: 12px;
+}
+.contact textarea {
+    height: 90px;
+    width: 90%;
+    padding: 20px;
+    margin-top: 12px;
+}
+.contact button {
+    margin-top: 12px;
+    width: 90%;
+    padding: 20px;
+    margin-left: 20px;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
